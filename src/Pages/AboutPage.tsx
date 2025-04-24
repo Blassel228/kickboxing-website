@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import Header from "../components/Header";
+import Header from "../Components/Header";
 import image from "../Images/iamge_Piotr.jpg";
 import videoBackground from "../Images/video3.mp4";
 
